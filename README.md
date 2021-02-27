@@ -99,10 +99,7 @@ Learn more about how to integrate [UI Kit](https://github.com/cometchat-pro/come
 
 Thanks to the following people who have contributed to this project:
 
-[@priyadarshininadar](https://github.com/priyadarshininadar) <br>
-[@ajaygajra](https://github.com/ajaygajra) <br>
-[@prathamesh-majgaonkar](https://github.com/prathamesh-majgaonkar) <br>
-[@mayur-bhandari](https://github.com/mayur-bhandari)
+[@tigthor](https://github.com/tigthor) <br>
 
 
 ---
